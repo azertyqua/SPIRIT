@@ -1,0 +1,63 @@
+{
+  "name": "SPIRIT",
+  "version": "2.3.0",
+  "description": "music bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PURESTRESSER/SPIRIT.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "music"
+  ],
+  "author": "agubelu",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/PURESTRESSER/SPIRIT/issues"
+  },
+  "dependencies": {
+    "bufferutil": "^3.0.3",
+    "chalk": "^2.3.0",
+    "cheerio": "^1.0.0-rc.2",
+    "common-tags": "^1.7.2",
+    "country-data": "0.0.31",
+    "dateformat": "^3.0.2",
+    "didyoumean2": "^1.3.0",
+    "discord-emoji": "^1.1.1",
+    "discord.js": "^11.0.0",
+    "erlpack": "^0.1.2",
+    "express": "^4.16.2",
+    "figlet": "^1.2.0",
+    "fs-extra": "^5.0.0",
+    "google-translate-api": "^2.3.0",
+    "got": "^8.0.3",
+    "libsodium-wrappers": "^0.7.3",
+    "math-expression-evaluator": "^1.2.17",
+    "moment": "^2.20.1",
+    "ms": "^2.1.1",
+    "node-notifier": "^5.2.1",
+    "node-opus": "^0.2.7",
+    "normalize-url": "^2.0.1",
+    "opn": "^5.2.0",
+    "opusscript": "^0.0.6",
+    "prompt": "^1.0.0",
+    "readdir-recursive": "0.0.4",
+    "request": "^2.83.0",
+    "roll": "^1.2.0",
+    "sodium": "^2.0.3",
+    "spotify-uri": "^1.0.0",
+    "spotify-web-api-node": "^2.5.0",
+    "uws": "^9.14.0",
+    "webdict": "^0.2.1"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "homepage": "https://github.com/PURESTRESSER/SPIRIT#readme"
+}
