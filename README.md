@@ -4,11 +4,11 @@
 [![Discord Badge](https://discordapp.com/api/guilds/282207139752050688/embed.png)](https://discord.io/rayzrdevofficial)
 
 ```fix
-╔════════════════════════════════◃◖⟪۞⟫◗▹═════════════════════════════════╗
+╔══════════════════════════════════════◃◖⟪۞⟫◗▹═════════════════════════════════════════╗
 ```
-                                         ╔════════════════════════════╗
-                                          ►`SUIVEZ LE DEROULEMENT DU PROJET [ X-BOT ]`◄
-                                         ╚════════════════════════════╝
+                     ╔═════════════════════════════════════════════╗
+                      ► SUIVEZ LE DEROULEMENT DU PROJET [ X-BOT ] ◄
+                     ╚═════════════════════════════════════════════╝
 
 ╔◗ **Vous souhaitez soutenir le projet THE X-BOT ?**
 ╠◗ **Vous souhaitez un support technique pour le developpement de votre BOT ?**
@@ -36,7 +36,7 @@ $ Nous vous attendons avec impatience !
 ╠◗ __**Lien**__ : https://discord.gg/r3bJ7xw
 ╚◗ __**Lien**__ : https://x-bot.me
 ```fix
-╚════════════════════════════════◃◖⟪۞⟫◗▹═════════════════════════════════╝
+╚════════════════════════════════════════◃◖⟪۞⟫◗▹═════════════════════════════════════════╝
 ```
 
 [![Discord Badge](https://github.com/Rayzr522/ProjectResources/raw/master/RayzrDev/badge-small.png)](https://discord.io/rayzrdevofficial)
